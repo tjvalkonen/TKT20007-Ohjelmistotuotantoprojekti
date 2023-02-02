@@ -8,6 +8,7 @@ ota mallia [täältä](https://github.com/HY-TKTL/TKT20007-Ohjelmistotuotantopro
 
 - [TMC-Coach](https://github.com/tmc-coach/tmc-coach)
 - [Anturidatan_visualisointi](https://github.com/Anturit/Anturidatan_visualisointi)
+- [Farmasian VR-peli](https://github.com/FarmasiaVR/farmasia-vr)
 
 
 ### Dokumentaatio
